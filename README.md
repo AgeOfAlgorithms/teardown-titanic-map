@@ -23,6 +23,10 @@ Made for exploring with friends.
 
 Looking for the wreck? [Titanic Wreck](https://steamcommunity.com/sharedfiles/filedetails/?id=3833158777) is the same ship, 60 m down.
 
+## Community
+
+Join the [Discord community](https://discord.gg/gNpRewdkxf) to post bug reports and suggestions.
+
 ## Install
 
 Subscribe on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3835599576), or clone this repository into
