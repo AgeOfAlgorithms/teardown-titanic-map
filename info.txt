@@ -1,5 +1,6 @@
 name = Titanic
 author = AgeOfAlgorithms and Claude
-description = RMS Titanic afloat on her maiden voyage, April 1912: the whole ship at sea, rebuilt deck by deck from the 1911 builders' plans, with roomier corridors and doorways so you can explore her. Walk the boat deck, the promenades, the Grand Staircase, the public rooms, the cabins of all three classes, the boiler rooms and the engines. The host can change the time of day in the pause menu (Change weather). For multiplayer.
+description = RMS Titanic afloat on her maiden voyage, April 1912: the whole ship at sea, rebuilt deck by deck from the 1911 builders' plans, with roomier corridors and doorways so you can explore her. Walk the boat deck, the promenades, the Grand Staircase, the public rooms, the cabins of all three classes, the boiler rooms and the engines. Pull the whistle cord in the wheelhouse, drive the boats beside her, and with the Clamber mod climb her ladders. The host can change the weather in the pause menu (Change weather), including a moonless Dark night. For multiplayer.
 tags = Map
 version = 2
+preview = preview_td.jpg
